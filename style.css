@@ -4,7 +4,7 @@ body {
     flex-direction: column;
     align-items: center;
     padding-top: 50px;
-    background-image: url(Mathematics-Formulas-Calculations.gif);
+    background-image: url(images.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -23,6 +23,7 @@ body {
 }
 
 .screen{
+    overflow-x: hidden;
     height: 150px;
     width: 380px;
     background-color: rgb(98, 105, 110);
